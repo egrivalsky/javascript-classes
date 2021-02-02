@@ -61,3 +61,4 @@ erikG.olly = function() {
 erikG.coffee();
 erikG.olly();
 console.log(`${erikG.name} has ${erikG.legs} legs`);
+
